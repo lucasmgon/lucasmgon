@@ -1,6 +1,6 @@
 <h1 align="center">Olá pessoal! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-👽 Meu nome é Lucas, e estou no 8º semestre de Sistemas de Informação e no 3º ano de Analise e Desenvolvimento de Sistemas.
+👽 Meu nome é Lucas, e sou graduado em Sistemas de Informação e estou cursando o 3º ano de Analise e Desenvolvimento de Sistemas.
 
 🖥️ Atualmente trabalho na área de Infraestrutura de TI em uma empresa de produção de Celulose e Papel Kraft.
 
